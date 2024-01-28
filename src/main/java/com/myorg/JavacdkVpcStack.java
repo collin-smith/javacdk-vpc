@@ -13,8 +13,6 @@ import software.amazon.awscdk.services.ec2.ISubnet;
 import software.amazon.awscdk.services.ec2.IpAddresses;
 import software.amazon.awscdk.services.ec2.NatProvider;
 import software.amazon.awscdk.services.ec2.SubnetConfiguration;
-// import software.amazon.awscdk.Duration;
-// import software.amazon.awscdk.services.sqs.Queue;
 import software.amazon.awscdk.services.ec2.SubnetType;
 import software.amazon.awscdk.services.ec2.Vpc;
 
